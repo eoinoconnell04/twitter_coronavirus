@@ -23,7 +23,7 @@ Here is a chart of the number of tweets with hashtag #coronavirus divided up by 
 ![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/coronavirus_lang.png)
 
 Here is a chart of the number of tweets with hashtag #코로나바이러스 divided up by country, showing the top 10 countries from fewest to most tweets.
-![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/코로나바이러스_country1.png)
+![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/korean_country.png)
 
 Here is a chart of the number of tweets with hashtag #코로나바이러스 divided up by language, showing the top 10 languages from fewest to most tweets.
-![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/코로나바이러스_lang1.png)
+![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/korean_lang.png)
