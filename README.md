@@ -38,3 +38,18 @@ Here is a chart of the number of tweets with hashtag #코로나바이러스 divi
 ![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/korean_lang.png)
 
 As expected, we see that the vast majority of tweets with the coronavirus hashtag in korean came from within Korea, and we written in the Korean language.
+
+# Alternative Reduce
+Now, I will create a new file `alternative_reduce.py`, which combines elements from my previous reduce file, and my previous visualize file. This new file combines these two steps, taking a list of hashtags as arguments, reduces the mapped files, and then creates a bar chart which tracks the daily usage of each of the inputed hashtags over time.
+
+First, I will plot the frequency of the #covid19 and #coronavirus hashtags over the course of the year, using my new file with the `./src/alternative_reduce.py --hashtags=#coronavirus,#covid19` command. Here, you can see that I can pass in a number of hashtags at once to plot them on the same chart. 
+
+![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/coronavirus_covid19.png)
+
+From this plot, we can see that the frequency of these two hashtags was very closely related, which makes sense as they represent the same thing so would be popular at the same time.
+
+We can generate another plot to look at some other related hashtags:
+
+![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/virus_doctor_covid-19_covid19.png)
+
+From this, we see that nothing comes close to the frequency of the #covid19 hashtag, but there was a spike for #virus which coincided with the spike of #covid19. The other hashtags had relatively little usage throughout the year, excpet for a little spike of #doctor in July.
