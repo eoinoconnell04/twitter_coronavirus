@@ -16,14 +16,25 @@ Now that I have my data, I use matplotlib to create bar charts of the number of 
 
 Here we can see the charts that I created.
 
+
 Here is a chart of the number of tweets with hashtag #coronavirus divided up by country, showing the top 10 countries from fewest to most tweets.
+
 ![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/coronavirus_country.png)
 
 Here is a chart of the number of tweets with hashtag #coronavirus divided up by language, showing the top 10 languages from fewest to most tweets.
+
 ![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/coronavirus_lang.png)
 
+We see that the majority of tweets with #coronavirus were written in english, with the second most in spanish, and the majority of these tweets originated within the United States, with the second most coming from India.
+
+
 Here is a chart of the number of tweets with hashtag #코로나바이러스 divided up by country, showing the top 10 countries from fewest to most tweets.
+
 ![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/korean_country.png)
+
+
 
 Here is a chart of the number of tweets with hashtag #코로나바이러스 divided up by language, showing the top 10 languages from fewest to most tweets.
 ![alt text](https://github.com/eoinoconnell04/twitter_coronavirus/blob/master/korean_lang.png)
+
+As expected, we see that the vast majority of tweets with the coronavirus hashtag in korean came from within Korea, and we written in the Korean language.
