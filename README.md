@@ -1,6 +1,6 @@
 # Coronavirus twitter analysis
 
-In this project, I will work with a data set of all geotagged tweets from 2020, and generate some plots to analyze the data. Initially, the two things that I will analyze will be the number of mentions of "coronavirus" accross different languages, and also the distrubtion accross different countries.
+In this project, I will work with a data set of all geotagged tweets from 2020, and generate some plots to analyze the data. Initially, the two things that I will analyze will be the number of mentions of "coronavirus" accross different languages, and also the distrubtion accross different countries. Then, I will create the framework to create charts with a wider range of hashtags to see their frequency over time.
 
 ## Mapping
 
